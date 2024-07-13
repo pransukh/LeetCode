@@ -12,6 +12,7 @@ public class MergeStrings {
 int[] ans = arrayProduct(new int[]{1,2,3,4});
         for(int data : ans){
             System.out.println(data);
+            
         }
     }
 
