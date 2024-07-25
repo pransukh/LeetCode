@@ -6,11 +6,7 @@ import java.util.Stack;
 
 public class Asteroid {
     public static void main(String[] args) {
-//        int asteroids[] = new int[]{10,2,-5};
-//        int asteroids[] = new int[]{-2,-1,1,2};
-//        int asteroids[] = new int[]{8,-8};
-//        int asteroids[] = new int[]{5,10,-5};
-//        int asteroids[] = new int[]{10,2,-5,11,14,100,15,16,-55,17};
+//       
         int asteroids[] = new int[]{10,2,5,11,14,100,15,16,55,17};
         int[] dom = null;
 
